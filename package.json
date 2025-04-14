@@ -1,0 +1,13 @@
+{
+  "name": "chai-yun-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "bot": "node src/bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.3.1",
+    "lowdb": "^7.0.1"
+  }
+}
